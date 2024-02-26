@@ -1,0 +1,8 @@
+{
+    "class_name": "MaxAbsScaler",
+    "module": "sklearn.preprocessing",
+    "param_args": [],
+    "param_kwargs": {},
+    "prepared_kwargs": {},
+    "spec_class": "preproc"
+}
